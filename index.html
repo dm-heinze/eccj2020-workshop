@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 	<head>
-		<meta charset="utf-8">
+		<meta http-equiv="content-type" content="text/html; charset=utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
 		<title>reveal.js</title>
@@ -24,9 +24,51 @@
 	</head>
 	<body>
 		<div class="reveal">
+			<img class="hbl-logo" alt="hubble Logo" src="assets/hubble_logo.svg" />
+			<img class="ecc-logo" alt="ecc Logo" src="assets/ecommerce-camp-logo.svg" />
 			<div class="slides">
-				<section>Slide 1</section>
-				<section>Slide 2</section>
+				<section data-markdown="intro.md"
+						 data-separator="^\n\n\n"
+						 data-separator-vertical="^\n\n"
+						 data-separator-notes="^Note:"
+						 data-charset="utf-8">
+				</section>
+				<section data-markdown="history.md"
+						 data-separator="^\n\n\n"
+						 data-separator-vertical="^\n\n"
+						 data-separator-notes="^Note:"
+						 data-charset="utf-8">
+				</section>
+				<section data-markdown="setup.md"
+						 data-separator="^\n\n\n"
+						 data-separator-vertical="^\n\n"
+						 data-separator-notes="^Note:"
+						 data-charset="utf-8">
+				</section>
+				<section data-markdown="frontend-demo.md"
+						 data-separator="^\n\n\n"
+						 data-separator-vertical="^\n\n"
+						 data-separator-notes="^Note:"
+						 data-charset="utf-8">
+				</section>
+				<section data-markdown="pwa.md"
+						 data-separator="^\n\n\n"
+						 data-separator-vertical="^\n\n"
+						 data-separator-notes="^Note:"
+						 data-charset="utf-8">
+				</section>
+				<section data-markdown="development.md"
+						 data-separator="^\n\n\n"
+						 data-separator-vertical="^\n\n"
+						 data-separator-notes="^Note:"
+						 data-charset="utf-8">
+				</section>
+				<section data-markdown="performance.md"
+						 data-separator="^\n\n\n"
+						 data-separator-vertical="^\n\n"
+						 data-separator-notes="^Note:"
+						 data-charset="utf-8">
+				</section>
 			</div>
 		</div>
 
@@ -46,5 +88,23 @@
 				]
 			});
 		</script>
+
+		<style>
+			.hbl-logo {
+				position: absolute;
+				top: 0;
+				left: 0;
+				width: 120px;
+				color: #fff;
+				margin: 20px;
+			}
+			.ecc-logo {
+				position: absolute;
+				top: 0;
+				right: 0;
+				width: 140px;
+				margin: 20px;
+			}
+		</style>
 	</body>
 </html>
