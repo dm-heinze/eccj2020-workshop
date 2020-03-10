@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1596px" height="1339px" viewBox="0 0 1596 1339" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>hubble-data-flow-ssr</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="hubble-data-flow-ssr" transform="translate(3.000000, 3.000000)">
+            <text id="API" font-family="OpenSans-Regular, Open Sans" font-size="48" font-weight="normal" fill="#FFFFFF">
+                <tspan x="1374" y="655">API</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" stroke-width="5" x="0" y="0" width="751" height="176"></rect>
+            <text id="shopdomain.com/categ" font-family="OpenSans-Regular, Open Sans" font-size="48" font-weight="normal" fill="#FFFFFF">
+                <tspan x="29" y="106">shopdomain.com/categorie-url</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" stroke-width="5" x="0" y="552" width="360" height="176"></rect>
+            <text id="Middleware" font-family="OpenSans-Regular, Open Sans" font-size="48" font-weight="normal" fill="#FFFFFF">
+                <tspan x="50" y="640">Middleware</tspan>
+            </text>
+            <text id="apiResourcesRoute.js" font-family="OpenSans-Regular, Open Sans" font-size="30" font-weight="normal" fill="#FFFFFF">
+                <tspan x="33" y="686">apiResourcesRoute.js</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" stroke-width="5" x="0" y="552" width="360" height="176"></rect>
+            <text id="Store" font-family="OpenSans-Regular, Open Sans" font-size="48" font-weight="normal" fill="#FFFFFF">
+                <tspan x="772" y="640">Store</tspan>
+            </text>
+            <text id="apiResourcesRoute.js" font-family="OpenSans-Regular, Open Sans" font-size="30" font-weight="normal" fill="#FFFFFF">
+                <tspan x="684" y="686">apiResourcesRoute.js</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" stroke-width="5" x="651" y="552" width="360" height="176"></rect>
+            <text id="Component" font-family="OpenSans-Regular, Open Sans" font-size="48" font-weight="normal" fill="#FFFFFF">
+                <tspan x="51" y="916">Component</tspan>
+            </text>
+            <text id="ViewCategory.vue" font-family="OpenSans-Regular, Open Sans" font-size="30" font-weight="normal" fill="#FFFFFF">
+                <tspan x="60" y="962">ViewCategory.vue</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" stroke-width="5" x="1" y="828" width="360" height="176"></rect>
+            <rect id="Rectangle" stroke="#979797" stroke-width="5" x="1230" y="552" width="360" height="176"></rect>
+            <text id="Page" font-family="OpenSans-Regular, Open Sans" font-size="48" font-weight="normal" fill="#FFFFFF">
+                <tspan x="126" y="364">Page</tspan>
+            </text>
+            <text id="_.vue" font-family="OpenSans-Regular, Open Sans" font-size="30" font-weight="normal" fill="#FFFFFF">
+                <tspan x="144" y="410">_.vue</tspan>
+            </text>
+            <rect id="Rectangle" stroke="#979797" stroke-width="5" x="0" y="276" width="360" height="176"></rect>
+            <path id="Line-2" d="M185,192 L185,232 L197,232 L182.5,261 L168,232 L180,232 L180,192 L185,192 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M184.5,466.5 L184.5,506.5 L196.5,506.5 L182,535.5 L167.5,506.5 L179.5,506.5 L179.5,466.5 L184.5,466.5 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M178.26006,745.73998 L183.26002,745.76006 L183.114,782.01 L195.11434,782.058462 L180.497992,810.999996 L166.114574,781.941997 L178.114,781.989 L178.26006,745.73998 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M612.972744,625.053698 L641.999999,639.499058 L613.027357,654.053647 L613.004,642.053 L373.504713,642.504704 L373.495296,637.504713 L612.995,637.053 L612.972744,625.053698 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M1190,590 L1219,604.5 L1190,619 L1189.999,607 L1026,607 L1026,602 L1189.999,602 L1190,590 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M1057,660 L1057,672 L1221,672 L1221,677 L1057,677 L1057,689 L1028,674.5 L1057,660 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <text id="Serverside-Rendering" font-family="OpenSans-Regular, Open Sans" font-size="30" font-weight="normal" fill="#FFFFFF">
+                <tspan x="210" y="1061">Serverside Rendering</tspan>
+            </text>
+            <path id="Line-3" d="M398.258719,892.06801 L402.393,903.333 L410.541213,900.34268 L412.264001,905.036505 L404.115,908.027 L408.250893,919.292198 L376.030617,915.672279 L398.258719,892.06801 Z M438.704166,890.005947 L440.426955,894.699773 L421.651653,901.590928 L419.928864,896.897102 L438.704166,890.005947 Z M466.86712,879.669215 L468.589909,884.36304 L449.814606,891.254195 L448.091818,886.56037 L466.86712,879.669215 Z M495.030074,869.332482 L496.752863,874.026308 L477.97756,880.917463 L476.254771,876.223637 L495.030074,869.332482 Z M523.193028,858.99575 L524.915816,863.689576 L506.140514,870.580731 L504.417725,865.886905 L523.193028,858.99575 Z M551.355981,848.659017 L553.07877,853.352843 L534.303468,860.243998 L532.580679,855.550172 L551.355981,848.659017 Z M579.518935,838.322285 L581.241724,843.016111 L562.466421,849.907266 L560.743633,845.21344 L579.518935,838.322285 Z M607.681889,827.985553 L609.404677,832.679378 L590.629375,839.570533 L588.906586,834.876707 L607.681889,827.985553 Z M635.844842,817.64882 L637.567631,822.342646 L618.792329,829.233801 L617.06954,824.539975 L635.844842,817.64882 Z M664.007796,807.312088 L665.730585,812.005913 L646.955282,818.897068 L645.232494,814.203243 L664.007796,807.312088 Z M692.17075,796.975355 L693.893539,801.669181 L675.118236,808.560336 L673.395447,803.86651 L692.17075,796.975355 Z M720.333704,786.638623 L722.056492,791.332448 L703.28119,798.223603 L701.558401,793.529778 L720.333704,786.638623 Z M748.496657,776.30189 L750.219446,780.995716 L731.444144,787.886871 L729.721355,783.193045 L748.496657,776.30189 Z M776.659611,765.965158 L778.3824,770.658983 L759.607097,777.550138 L757.884309,772.856313 L776.659611,765.965158 Z M804.822565,755.628425 L806.545353,760.322251 L787.770051,767.213406 L786.047262,762.51958 L804.822565,755.628425 Z M832.985518,745.291693 L834.708307,749.985518 L815.933005,756.876673 L814.210216,752.182848 L832.985518,745.291693 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <path id="Line-2" d="M178.064471,1018.68553 L183.064469,1018.68947 L183.022,1072.001 L195.022454,1072.01144 L180.499606,1101 L166.022463,1071.98858 L178.022,1071.998 L178.064471,1018.68553 Z" fill="#FFFFFF" fill-rule="nonzero"></path>
+            <g id="devices-icon" transform="translate(64.000000, 1118.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                <path d="M222.3,105.107143 L222.3,19.4642857 C222.3,8.73167857 213.5523,0 202.8,0 L31.2,0 C20.4477,0 11.7,8.73167857 11.7,19.4642857 L11.7,77.8571429 C5.2494,77.8571429 0,83.0969286 0,89.5357143 L0,206.321429 C0,212.760214 5.2494,218 11.7,218 L97.5,218 C103.9506,218 109.2,212.760214 109.2,206.321429 L141.8859,206.321429 C145.5636,206.321429 148.9527,204.6475 151.1835,201.73175 C153.4143,198.816 154.1397,195.11 153.1725,191.571393 L145.5051,163.5 L167.7,163.5 L167.7,206.321429 C167.7,212.760214 172.9494,218 179.4,218 L222.3,218 C228.7506,218 234,212.760214 234,206.321429 L234,116.785714 C234,110.346929 228.7506,105.107143 222.3,105.107143 Z M101.4,206.321429 C101.4,208.466393 99.6489,210.214286 97.5,210.214286 L11.7,210.214286 C9.5511,210.214286 7.8,208.466393 7.8,206.321429 L7.8,198.535714 L101.4,198.535714 L101.4,206.321429 Z M101.4,190.75 L7.8,190.75 L7.8,105.107143 L101.4,105.107143 L101.4,190.75 Z M101.4,97.3214286 L7.8,97.3214286 L7.8,89.5357143 C7.8,87.39075 9.5511,85.6428571 11.7,85.6428571 L97.5,85.6428571 C99.6489,85.6428571 101.4,87.39075 101.4,89.5357143 L101.4,97.3214286 Z M145.6494,193.619036 C145.9731,194.798571 145.7313,196.032607 144.9864,197.005821 C144.2415,197.979036 143.1144,198.535714 141.8859,198.535714 L109.2,198.535714 L109.2,190.75 L144.8655,190.75 L145.6494,193.619036 Z M109.2,182.964286 L109.2,163.5 L137.4204,163.5 L142.74,182.964286 L109.2,182.964286 Z M167.7,155.714286 L109.2,155.714286 L109.2,132.357143 L167.7,132.357143 L167.7,155.714286 Z M167.7,116.785714 L167.7,124.571429 L109.2,124.571429 L109.2,89.5357143 C109.2,83.0969286 103.9506,77.8571429 97.5,77.8571429 L19.5,77.8571429 L19.5,19.4642857 C19.5,13.0255 24.7494,7.78571429 31.2,7.78571429 L202.8,7.78571429 C209.2506,7.78571429 214.5,13.0255 214.5,19.4642857 L214.5,105.107143 L179.4,105.107143 C172.9494,105.107143 167.7,110.346929 167.7,116.785714 Z M226.2,206.321429 C226.2,208.466393 224.4489,210.214286 222.3,210.214286 L179.4,210.214286 C177.2511,210.214286 175.5,208.466393 175.5,206.321429 L175.5,198.535714 L226.2,198.535714 L226.2,206.321429 Z M226.2,190.75 L175.5,190.75 L175.5,132.357143 L226.2,132.357143 L226.2,190.75 Z M226.2,124.571429 L175.5,124.571429 L175.5,116.785714 C175.5,114.64075 177.2511,112.892857 179.4,112.892857 L222.3,112.892857 C224.4489,112.892857 226.2,114.64075 226.2,116.785714 L226.2,124.571429 Z" id="Shape"></path>
+                <polygon id="Rectangle" transform="translate(31.198663, 155.707378) rotate(-45.000000) translate(-31.198663, -155.707378) " points="20.1742164 151.800818 42.1281895 152.063095 42.2231096 159.613938 20.2691365 159.351661"></polygon>
+                <polygon id="Rectangle" transform="translate(62.397317, 151.815312) rotate(-45.000000) translate(-62.397317, -151.815312) " points="29.3314373 147.888341 95.3684512 148.632894 95.463197 155.742284 29.4261831 154.997731"></polygon>
+                <polygon id="Rectangle" transform="translate(58.495729, 128.463915) rotate(-45.000000) translate(-58.495729, -128.463915) " points="41.962081 124.552253 74.934447 124.940134 75.0293774 132.375577 42.0570113 131.987695"></polygon>
+                <polygon id="Rectangle" transform="translate(196.940005, 153.768947) rotate(-45.000000) translate(-196.940005, -153.768947) " points="183.163027 149.859838 210.622046 150.185314 210.716982 157.678056 183.257964 157.352579"></polygon>
+                <polygon id="Rectangle" transform="translate(204.738503, 169.356656) rotate(-45.000000) translate(-204.738503, -169.356656) " points="190.961526 165.447546 218.420544 165.773023 218.515481 173.265765 191.056462 172.940288"></polygon>
+                <polygon id="Rectangle" transform="translate(116.994639, 58.393078) rotate(-45.000000) translate(-116.994639, -58.393078) " points="100.460991 54.4814163 133.433357 54.8692977 133.528288 62.3047403 100.555922 61.916859"></polygon>
+                <polygon id="Rectangle" transform="translate(152.096847, 50.607491) rotate(-45.000000) translate(-152.096847, -50.607491) " points="135.563199 46.6958286 168.535565 47.08371 168.630495 54.5191526 135.658129 54.1312712"></polygon>
+                <polygon id="Rectangle" transform="translate(124.794596, 77.860647) rotate(-45.000000) translate(-124.794596, -77.860647) " points="113.770149 73.9540867 135.724122 74.216364 135.819042 81.7672071 113.865069 81.5049298"></polygon>
+                <polygon id="Rectangle" transform="translate(144.291781, 31.172846) rotate(-45.000000) translate(-144.291781, -31.172846) " points="133.24006 27.2662602 155.248582 27.5291682 155.343502 35.0794311 133.334981 34.8165232"></polygon>
+                <rect id="Rectangle" x="27" y="15" width="8" height="8"></rect>
+                <rect id="Rectangle" x="43" y="15" width="8" height="8"></rect>
+                <rect id="Rectangle" x="58" y="15" width="8" height="8"></rect>
+            </g>
+            <text id="State-/-Data" font-family="OpenSans-Regular, Open Sans" font-size="30" font-weight="normal" fill="#FFFFFF">
+                <tspan x="641" y="865">State / Data</tspan>
+            </text>
+            <text id="Dispatch-Action" font-family="OpenSans-Regular, Open Sans" font-size="30" font-weight="normal" fill="#FFFFFF">
+                <tspan x="395" y="616">Dispatch Action</tspan>
+            </text>
+            <text id="Commit-State" font-family="OpenSans-Regular, Open Sans" font-size="30" font-weight="normal" fill="#FFFFFF">
+                <tspan x="1029" y="719">Commit State</tspan>
+            </text>
+            <text id="Fetch" font-family="OpenSans-Regular, Open Sans" font-size="30" font-weight="normal" fill="#FFFFFF">
+                <tspan x="1073" y="584">Fetch</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

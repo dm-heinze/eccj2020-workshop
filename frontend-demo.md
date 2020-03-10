@@ -1,4 +1,3 @@
 ## Frontend Demo
-https://chocolate.hubblecommerce.io/\
+https://chocolate.hubblecommerce.io/ \
 Out of the box features
-

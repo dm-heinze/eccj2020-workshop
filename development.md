@@ -12,8 +12,4 @@
 ## (Live Audit)
 
 
-## Data Flow
-(Schaubild: Datenverarbeitung in der PWA, SEO kritische Inhalte (middleware) und nicht SEO kritische Inhalte (lazy loading components))
-
-
-### (Schaubild anhand von Codebeispiel nachvollziehen)
+![Image of DMF](assets/hubble-data-flow-ssr.svg)<!-- .element width="700" style="border: 0; background: None; box-shadow: None;" -->

@@ -30,13 +30,13 @@
 - Frontend: Laravel + Vue.js Components<!-- .element: class="fragment" -->
 
 
-### (Schaubild von Barstuff Rocket Architektur)
+![Image of DMF](assets/hubble-stack-prototype.svg)<!-- .element width="700" style="border: 0; background: None; box-shadow: None;" -->
 
 
 ### noch mehr Herausforderungen
 - SEO <!-- .element: class="fragment" -->
 - Komponenten weiter entkapseln (Laravel = Templates) <!-- .element: class="fragment" -->
-- JS basierte Lösung <!-- .element: class="fragment" -->
+- einheitliche (JS basierte) Lösung <!-- .element: class="fragment" -->
 - Setup und Konfiguration aufwändig <!-- .element: class="fragment" -->
 
 
@@ -48,4 +48,7 @@
 - bringt node.js Server mit sich inkl. Hot Module Replacement  <!-- .element: class="fragment" -->
 
 
-### (Schaubild von hubble API + nuxt App + 6 Direktanbindung)
+![Image of DMF](assets/hubble-stack-pwa.svg)<!-- .element width="900" style="border: 0; background: None; box-shadow: None;" -->
+
+
+![Image of DMF](assets/hubble-stack-sw-pwa.svg)<!-- .element width="900" style="border: 0; background: None; box-shadow: None;" -->

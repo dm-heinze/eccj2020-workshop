@@ -11,7 +11,7 @@
 ## Code splitting/chunking
 
 
-## (FoamTree JS Analysis Tool)
+![Image of DMF](assets/hubble-bundle-analyse.png)<!-- .element width="900" style="border: 0; background: None; box-shadow: None;" -->
 
 
 ## Webpack dynamic imports
@@ -37,6 +37,9 @@ export default {
 - Laden von Komponenten anhand von Events (scroll, click, etc...)  <!-- .element: class="fragment" -->
 
 ![Mind blown](https://media.giphy.com/media/26ufdipQqU2lhNA4g/source.gif) <!-- .element: class="fragment" -->
+
+
+![Image of DMF](assets/hubble-data-flow-clientside.svg)<!-- .element width="800" style="border: 0; background: None; box-shadow: None;" -->
 
 
 ### (Beispiel in Devtools Lazy Loading Footer Chunks)
