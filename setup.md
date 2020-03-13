@@ -1,5 +1,5 @@
 ## Let's do this
-![Cat](https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/source.gif)<!-- .element width="400" style="border: 0; background: None; box-shadow: None;" -->
+![Cat]()<!-- .element data-src="https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/source.gif" width="400" style="border: 0; background: None; box-shadow: None;" -->
 
 
 ### Requirements Shopware 6
@@ -20,10 +20,10 @@ bin/setup
 
 ### Shopware 6 Plugin Installation
 - Download Repository [github.com/hubblecommerce/shopware6-api-plugin](https://github.com/hubblecommerce/shopware6-api-plugin)
-- Place files in: custom/plugins/DmfApiSeoUrl
+- Place files in: custom/plugins/DmfApi
 ```bash
 bin/console plugin:refresh
-bin/console plugin:install --activate DmfApiSeoUrl
+bin/console plugin:install --activate DmfApi
 ./psh.phar cache
 ```
 
@@ -47,6 +47,10 @@ cp .env_example .env
 
 npm install 
 ```
+
+
+### Get your Shopware Access Key
+![Image of DMF]()<!-- .element data-src="assets/get-your-access-key.png" width="900" style="border: 0; background: None; box-shadow: None;" -->
 
 
 ### Configuration hubble

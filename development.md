@@ -1,5 +1,5 @@
 ## Google Lighthouse 
-![Image of DMF](assets/pwa-lighthouse-1-750x422.png)<!-- .element width="400" style="border: 0; background: None; box-shadow: None;" -->
+![Image of DMF]()<!-- .element data-src="assets/pwa-lighthouse-1-750x422.png" width="400" style="border: 0; background: None; box-shadow: None;" -->
 
 
 ### Bedingungen
@@ -12,4 +12,4 @@
 ## (Live Audit)
 
 
-![Image of DMF](assets/hubble-data-flow-ssr.svg)<!-- .element width="700" style="border: 0; background: None; box-shadow: None;" -->
+![Image of DMF]()<!-- .element data-src="assets/hubble-data-flow-ssr.svg" width="700" style="border: 0; background: None; box-shadow: None;" -->

@@ -30,7 +30,7 @@
 - Frontend: Laravel + Vue.js Components<!-- .element: class="fragment" -->
 
 
-![Image of DMF](assets/hubble-stack-prototype.svg)<!-- .element width="700" style="border: 0; background: None; box-shadow: None;" -->
+![Image of DMF]()<!-- .element data-src="assets/hubble-stack-prototype.svg" width="700" style="border: 0; background: None; box-shadow: None;" -->
 
 
 ### noch mehr Herausforderungen
@@ -48,7 +48,7 @@
 - bringt node.js Server mit sich inkl. Hot Module Replacement  <!-- .element: class="fragment" -->
 
 
-![Image of DMF](assets/hubble-stack-pwa.svg)<!-- .element width="900" style="border: 0; background: None; box-shadow: None;" -->
+![Image of DMF]()<!-- .element data-src="assets/hubble-stack-pwa.svg" width="900" style="border: 0; background: None; box-shadow: None;" -->
 
 
-![Image of DMF](assets/hubble-stack-sw-pwa.svg)<!-- .element width="900" style="border: 0; background: None; box-shadow: None;" -->
+![Image of DMF]()<!-- .element data-src="assets/hubble-stack-sw-pwa.svg" width="900" style="border: 0; background: None; box-shadow: None;" -->
