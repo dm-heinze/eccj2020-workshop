@@ -1,7 +1,15 @@
 ## Performance Optimization
+
+
+### Bewährte Methoden
 - Lazy Loading von Bildern <!-- .element: class="fragment" -->
 - JS minify <!-- .element: class="fragment" -->
 - JS Bundling <!-- .element: class="fragment" -->
+
+
+### Erweiterte Methoden
+- Code splitting <!-- .element: class="fragment" -->
+- Dynamic Imports <!-- .element: class="fragment" -->
 
 
 ## Webpack Bundling
@@ -42,4 +50,5 @@ export default {
 ![Image of DMF]()<!-- .element data-src="assets/hubble-data-flow-clientside.svg" width="800" style="border: 0; background: None; box-shadow: None;" -->
 
 
-### (Beispiel in Devtools Lazy Loading Footer Chunks)
+### Lazy Loading JS Chunks on scroll
+![Lazy Loading JS Chunks on scroll]()<!-- .element data-src="assets/lazy-loading-components.gif" width="900" style="border: 0; background: None; box-shadow: None;" -->

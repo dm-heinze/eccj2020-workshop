@@ -10,4 +10,4 @@ Lukas & Philipp
 
 
 ![Image of Magento and Shopware]()<!-- .element data-src="assets/magevssw.jpg" width="400" -->
-### anyone?
+### Unsere Wurzeln 
