@@ -46,7 +46,7 @@
 - basiert komplett auf Komponenten <!-- .element: class="fragment" -->
 - Vue.js basiert <!-- .element: class="fragment" -->
 - bietet sein eigenes Modulsystem, gute Erweiterbarkeit <!-- .element: class="fragment" -->
-- bringt node.js Server mit sich inkl. Hot Module Replacement für superschnelles Entwickeln <!-- .element: class="fragment" -->
+- bringt node.js Server mit sich inkl. Hot Module Replacement für superschnelles entwickeln <!-- .element: class="fragment" -->
 
 
 ### hubble API Stack
